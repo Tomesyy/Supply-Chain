@@ -12,5 +12,9 @@
   "license": "MIT",
   "devDependencies": {
     "lite-server": "2.4.0"
+  },
+  "dependencies": {
+    "truffle": "^4.1.14",
+    "truffle-hdwallet-provider": "^1.0.17"
   }
 }
